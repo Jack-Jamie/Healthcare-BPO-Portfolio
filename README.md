@@ -8,12 +8,15 @@ Hi there, I'm Jamie 👋
 
 ​🛠 Core Competencies & Tools
 
-​BPO Operations: Patient scheduling/Intake, Prior Authorization, Order Management Specialist - DME, Insurance Verification
+​BPO Operations: 
+Patient scheduling/Intake, Prior Authorization, Order Management Specialist - DME, Insurance Verification
 ​Standards & Compliance: HIPAA Certified ( Aug 19,2025 - Aug. 19, 2027 )
 
-​Tools & Software:  CRM Platforms, Amazon Workspace, Oracle Health,EMR/EHR, RingCentral,Vonage,Softphone, MS Teams, Google Workspace, Zoom, Chat GPT, Gemini AI,
+​Tools & Software:  
+CRM Platforms, Amazon Workspace, Oracle Health,EMR/EHR, RingCentral,Vonage,Softphone, MS Teams, Google Workspace, Zoom, Chat GPT, Gemini AI,
 
 ​🏥 What I'm Focused On
+
 ​
 ​⚡ Enhancing patient engagement through clear communication, insurance verification, and empathetic support
 ​📖 Continually expanding my knowledge in health informatics, medical coding updates, and BPO process automation

@@ -35,8 +35,10 @@ I combine operational excellence with a deep commitment to patient experience an
 - ​📖 Continually expanding my knowledge in health informatics, medical coding updates, and BPO process automation
 
 ## Contact & Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackielou-jamie-hernandez-i)  
-Email: luvugmushi@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackielou-jamie-hernandez-i) 
+
+Email: luvbugmushi@gmail.com
+
 Resume: [link-to-resume.pdf]([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1b-ISfunlt10gqgjwYIWRw41Tig-QVZ9J/view?usp=sharing))
 
 

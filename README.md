@@ -1,3 +1,5 @@
+## Hello — I’m Jamie 👋  
+## Healthcare BPO Specialist | Patient Coordinator | Team Lead
 
 
 <img width="600" height="394" alt="Image" src="https://github.com/user-attachments/assets/667dae2f-3267-41dd-a28a-020ae9a7cb47" />
@@ -5,14 +7,9 @@
 
 
 
-
-Hello everyone ! Welcome to my Github page!
-
+Welcome to my Github page!
 
 
-
-Hello — I’m Jamie 👋  
-Healthcare BPO Specialist | Patient Coordinator | Team Lead
 
 I combine operational excellence with a deep commitment to patient experience and regulatory compliance. I focus on streamlined intake and scheduling, insurance verification, prior authorization, DME order management, and team leadership to improve outcomes for patients and clients.
 

@@ -1,7 +1,7 @@
 # Healthcare-BPO-Specialist
 Hello everyone ! Welcome to my Github page!
  
-Hi there, I'm [Jamie] 👋
+Hi there, I'm Jamie 👋
 ​Healthcare BPO Specialist |Patient Coordinator | Team Lead
 ​I combine operational excellence with a deep commitment to healthcare quality,ensuring HIPAA compliance, and improving patient experiences.
 

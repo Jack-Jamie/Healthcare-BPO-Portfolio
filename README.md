@@ -1,7 +1,7 @@
 # Healthcare-BPO-Portfolio
 Hello everyone ! Welcome to my Github page!
  
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A person with a passion for healthcare.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

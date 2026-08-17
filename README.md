@@ -39,7 +39,7 @@ I combine operational excellence with a deep commitment to patient experience an
 
 Email: luvbugmushi@gmail.com
 
-Resume: [link-to-resume.pdf]([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1b-ISfunlt10gqgjwYIWRw41Tig-QVZ9J/view?usp=sharing))
+Resume:([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1b-ISfunlt10gqgjwYIWRw41Tig-QVZ9J/view?usp=sharing))
 
 
 

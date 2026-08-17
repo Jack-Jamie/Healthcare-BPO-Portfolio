@@ -1,5 +1,5 @@
 ## Hello — I’m Jamie 👋  
-## Healthcare BPO Specialist | Patient Coordinator | Team Lead.  <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/26d873b2-cb49-4c5a-afe7-2013f9e81383" />
+## Healthcare BPO Specialist | Patient Coordinator | Team Lead   <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/26d873b2-cb49-4c5a-afe7-2013f9e81383" />
 
 
 
@@ -49,7 +49,7 @@ Email: luvbugmushi@gmail.com
 
 📲 Mobile: +63905-377-7415
 
-Resume:([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1b-ISfunlt10gqgjwYIWRw41Tig-QVZ9J/view?usp=sharing))
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/492d6e52-be44-4d25-a21f-0eb6189398a7" /> ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1b-ISfunlt10gqgjwYIWRw41Tig-QVZ9J/view?usp=sharing))  ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1uRtDoKPB0H96rkIDsQ1eSiW0O2-qEWLA/view?usp=sharing))
 
 
 

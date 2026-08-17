@@ -27,6 +27,8 @@ I combine operational excellence with a deep commitment to patient experience an
 - MS Teams, Google Workspace, Zoom, Slack, Notion
 - ChatGPT, Gemini (AI tools for productivity)
 
+-      `amazonworkspace`      |    <img src="./icons/amazonworkspace.svg" width="48">  
+
 ## Certifications
 - HIPAA Certified — Aug 19, 2025 – Aug 19, 2027
 

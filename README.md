@@ -1,12 +1,15 @@
-# Healthcare-BPO-Specialist
+
 
 <img width="600" height="394" alt="Image" src="https://github.com/user-attachments/assets/667dae2f-3267-41dd-a28a-020ae9a7cb47" />
 
+
+
+
+
 Hello everyone ! Welcome to my Github page!
 
-###
- 
-# Healthcare BPO Specialist — Jamie  
+
+
 
 Hello — I’m Jamie 👋  
 Healthcare BPO Specialist | Patient Coordinator | Team Lead

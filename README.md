@@ -40,6 +40,7 @@ I combine operational excellence with a deep commitment to patient experience an
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackielou-jamie-hernandez-i) 
 
 Email: luvbugmushi@gmail.com
+📲 Mobile: +63905-377-7415
 
 Resume:([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1b-ISfunlt10gqgjwYIWRw41Tig-QVZ9J/view?usp=sharing))
 

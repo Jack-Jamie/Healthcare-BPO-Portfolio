@@ -25,9 +25,7 @@ I combine operational excellence with a deep commitment to patient experience an
 - CRM platforms
 - Amazon WorkSpaces, RingCentral, Vonage, Soft phone
 - MS Teams, Google Workspace, Zoom, Slack, Notion
-- ChatGPT, Gemini (AI tools for productivity)
-
--      `amazonworkspace`      |    <img src="./icons/amazonworkspace.svg" width="48">  
+- ChatGPT, Gemini (AI tools for productivity) 
 
 ## Certifications
 - HIPAA Certified — Aug 19, 2025 – Aug 19, 2027

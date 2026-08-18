@@ -1,16 +1,15 @@
-## Hello — I’m Jamie 👋   ###
-
-<div data-importer="profile-views" align="right">
+## Hello — I’m Jamie 👋   <div data-importer="profile-views" align="right">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Jack-Jamie.Jack-Jamie&left_color=seagreen&right_color=chocolate&left_text=Views"  />
 </div>
-## Healthcare BPO Specialist | Patient Coordinator | Team Lead           <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/26d873b2-cb49-4c5a-afe7-2013f9e81383" />
+
+### Healthcare BPO Specialist | Patient Coordinator | Team Lead           <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/26d873b2-cb49-4c5a-afe7-2013f9e81383" />
 
 
 
 
 
 
-# Welcome to my Portfolio☺️
+## Welcome to my Portfolio☺️
 
 
 

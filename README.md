@@ -37,7 +37,16 @@ I combine operational excellence with a deep commitment to patient experience an
 - <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/63edca07-3440-4de7-a8c1-3a47815941c0" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/63d3d8cd-6412-4cfb-8f1b-0b77861c43c8" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/7980c5a9-d371-40c0-bd12-64eed72fdf8d" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/190e6781-f700-4ed9-a1c6-0a3d79a59bb7" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/8b0af387-6d65-4fb5-812b-7920556e0c91" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/e533b2f1-7c17-4a17-a15e-953eb63ea14f" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/63294c8f-3a2f-4536-89fb-5accc9e8862e" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/470868bb-e1c6-4e78-9948-b154060225aa" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/67127b11-74b0-44ca-bbed-19a7bedfc0e6" /> <img width="50" height="50" alt="Image" src="https://github.com/user-attachments/assets/79235731-6f6d-4323-a17b-f902469714f1" />
 
 ## Certifications
-- HIPAA Certified — Aug 19, 2025 – Aug 19, 2027
+- HIPAA Certified — Aug 19, 2025 – Aug 19, 2027 ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1i00xxpHYpleBKiG3QD7Sz8THuXOD5Y83/view?usp=sharing))
+
+- GreenBelt Certification - Change Management - ([https://drive.google.com/drive/u/0/home]( https://drive.google.com/file/d/1iEWR_laMWXuLQMnTt2jwwSMQQva4gbn3/view?usp=sharing))
+
+- Certificate of Completion  - Leadership in the Hybrid Work Era -  ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1E-LD0x4T5tT3SIl_7z7pofIugEm7qR7X/view?usp=sharing))
+
+- Performance Excellence - ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/10MPa7kv7FHhKeZjQjVkqqjI6zT1NDLdr/view?usp=sharing))
+
+- Certificate of Recognition - ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/10fxfq6EYPxS8v2WCT_9EBsSZ3Q2IqxeB/view?usp=sharing ))
+ 
 
 ## What I Do / How I Work
 - Enhancing patient engagement through clear communication, insurance verification, and empathetic support
@@ -52,7 +61,7 @@ Email: luvbugmushi@gmail.com
 
 📲 Mobile: +63905-377-7415
 
-<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/492d6e52-be44-4d25-a21f-0eb6189398a7" /> ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1b-ISfunlt10gqgjwYIWRw41Tig-QVZ9J/view?usp=sharing))  ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1uRtDoKPB0H96rkIDsQ1eSiW0O2-qEWLA/view?usp=sharing))
+<img width="30" height="30" alt="Image" src="https://github.com/user-attachments/assets/492d6e52-be44-4d25-a21f-0eb6189398a7" /> ([https://drive.google.com/drive/u/0/home](https://drive.google.com/file/d/1hJUdiLR1HNDnZXvlHOpQtK_J1StcNloC/view?usp=sharing))  ([https://drive.google.com/drive/u/0/home]( https://drive.google.com/file/d/1WuaigcJAAKXEhmlKq8q7XjpFeIWE9eyC/view?usp=sharing))
 
 
 

@@ -5,7 +5,7 @@
 ### Healthcare BPO Specialist | Patient Coordinator | Customer Service | Team Lead
 
 
-           <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/26d873b2-cb49-4c5a-afe7-2013f9e81383" />
+<img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/26d873b2-cb49-4c5a-afe7-2013f9e81383" />
 
 
 

@@ -32,7 +32,7 @@ I combine operational excellence with a deep commitment to patient experience an
 
 ## Tools & Technologies
 - EMR/EHR platforms, Oracle Health, Pacware
-- CRM platforms
+- CRM platforms, CMS
 - Amazon WorkSpaces, RingCentral, Vonage, Soft phone                                              
 - MS Teams, Google Workspace, Zoom, Slack, Notion
 - ChatGPT, Canva, Gemini (AI tools for productivity)

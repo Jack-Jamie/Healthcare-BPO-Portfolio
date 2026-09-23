@@ -16,7 +16,7 @@
 
 
 
-I combine operational excellence with a deep commitment to patient experience and regulatory compliance. I focus on streamlined intake and scheduling, insurance verification, prior authorization, DME order management, and team leadership to improve outcomes for patients and clients. 
+I combine operational excellence with a deep commitment to customer service,patient experience and regulatory compliance. I focus on streamlined intake and scheduling, insurance verification, prior authorization, DME order management, and team leadership to improve outcomes for patients and clients. 
 
 <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/7c266366-dc5a-4078-b925-1ec2fe8571e8" />     <img width="100" height="80" alt="Image" src="https://github.com/user-attachments/assets/45a6d26b-c74c-4433-9a0b-780d89759636" />
 
